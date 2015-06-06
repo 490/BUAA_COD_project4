@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="26" delta="new" >&quot;<arg fmt="%s" index="1">mips.v</arg>&quot; line <arg fmt="%d" index="2">26</arg> <arg fmt="%s" index="3">expecting &apos;IDENTIFIER&apos;, found &apos;wire&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="new" >&quot;<arg fmt="%s" index="1">mips.v</arg>&quot; line <arg fmt="%d" index="2">27</arg> <arg fmt="%s" index="3">expecting &apos;IDENTIFIER&apos;, found &apos;wire&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="new" >&quot;<arg fmt="%s" index="1">mips.v</arg>&quot; line <arg fmt="%d" index="2">28</arg> <arg fmt="%s" index="3">expecting &apos;IDENTIFIER&apos;, found &apos;wire&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="new" >&quot;<arg fmt="%s" index="1">mips.v</arg>&quot; line <arg fmt="%d" index="2">29</arg> <arg fmt="%s" index="3">expecting &apos;IDENTIFIER&apos;, found &apos;wire&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="new" >&quot;<arg fmt="%s" index="1">mips.v</arg>&quot; line <arg fmt="%d" index="2">30</arg> <arg fmt="%s" index="3">expecting &apos;IDENTIFIER&apos;, found &apos;wire&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="new" >&quot;<arg fmt="%s" index="1">mips.v</arg>&quot; line <arg fmt="%d" index="2">31</arg> <arg fmt="%s" index="3">expecting &apos;IDENTIFIER&apos;, found &apos;wire&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;mips.v&quot; line 33 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">npc</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="new" >&quot;<arg fmt="%s" index="1">mips.v</arg>&quot; line <arg fmt="%d" index="2">33</arg> <arg fmt="%s" index="3">unexpected token: &apos;)&apos;</arg>
+</msg>
+
+</messages>
+

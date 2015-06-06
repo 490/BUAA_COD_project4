@@ -1,0 +1,54 @@
+ISim log file
+Running: C:\Users\dell\Desktop\BUAA2\PROJECT\P4-VerilogHDL-single_cycle_CPU\P4-13061076\VerilogHDL\test_1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/test_1_isim_beh.wdb 
+ISim P.68d (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 1.00us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+ISim P.68d (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 20ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+# run 20ns
+ISim P.68d (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 20ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 20ns
+# run 20ns

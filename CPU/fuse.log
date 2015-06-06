@@ -1,0 +1,43 @@
+Running: D:\COD_tools\Xilinx_ISE\Xilinx_ISE_DS\14.6\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/test_1_isim_beh.exe -prj C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/test_1_beh.prj work.test_1 work.glbl 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/select5.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/select32_2.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/select32.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/regfile.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/pc.v" into library work
+WARNING:HDLCompiler:751 - "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/pc.v" Line 28: Redeclaration of ansi port pc is not allowed
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/npc.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/im.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/ext.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/dm.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/control.v" into library work
+WARNING:HDLCompiler:751 - "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/control.v" Line 36: Redeclaration of ansi port jal is not allowed
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/alu.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/mips.v" into library work
+Analyzing Verilog file "C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/test_1.v" into library work
+Analyzing Verilog file "D:/COD_tools/Xilinx_ISE/Xilinx_ISE_DS/14.6/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PC
+Compiling module im_4k
+Compiling module dm_4k
+Compiling module control
+Compiling module select5
+Compiling module select32_3
+Compiling module regfile
+Compiling module ext
+Compiling module select32_2
+Compiling module alu
+Compiling module npc
+Compiling module mips
+Compiling module test_1
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 7 sub-compilation(s) to finish...
+Compiled 14 Verilog Units
+Built simulation executable C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/CPU/test_1_isim_beh.exe
+Fuse Memory Usage: 30544 KB
+Fuse CPU Usage: 529 ms

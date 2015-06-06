@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/control.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/dm.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/ext.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/im.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/npc.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/regfile.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/select32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/select32_2.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/dell/Desktop/BUAA2/PROJECT/P4-VerilogHDL-single_cycle_CPU/P4-13061076/VerilogHDL/select5.v&quot; into library work</arg>
+</msg>
+
+</messages>
+
